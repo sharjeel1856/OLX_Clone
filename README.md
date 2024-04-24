@@ -53,12 +53,4 @@ Feel free to explore the codebase, contribute, or use it as a reference for your
 3. Install dependencies using `flutter pub get`.
 4. Run the app on an emulator or physical device using `flutter run`.
 
-## Contributors
-- [Your Name](https://github.com/yourusername) - Project Lead & Developer
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to customize the README further to suit your preferences or add additional sections as needed. Good luck with your project!
